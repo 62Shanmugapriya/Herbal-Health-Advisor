@@ -52,6 +52,15 @@
 
 - **Provide Input:** Enter symptoms or concerns using text or voice in Tamil or English.  
 - **Receive Suggestions:** Get personalized recommendations in your preferred language, including text, images, and voice responses.  
-- **Give Feedback:** Share your experience to help refine future recommendations.  
+- **Give Feedback:** Share your experience to help refine future recommendations.
+
+---
+
+## Demo
+
+https://github.com/user-attachments/assets/befa5dec-912a-4f5d-9810-145105f52108
+
+
+
 
 
